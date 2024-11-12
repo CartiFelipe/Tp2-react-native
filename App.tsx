@@ -1,10 +1,10 @@
 import { SafeAreaView, StyleSheet } from "react-native";
-import Sexta from "./src/questoes/sexta/Sexta";
-import { StatusBar } from "expo-status-bar";
+import Oitava from "./src/questoes/oitava/Oitava";
+import Nona from "./src/questoes/nona/Nona";
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-      <Sexta />
+      <Nona />
     </SafeAreaView>
   );
 }
