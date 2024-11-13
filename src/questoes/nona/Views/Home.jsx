@@ -11,6 +11,7 @@ const Home = ({ navigation }) => {
       likes: 20,
       postDate: "2021-09-01",
       shared: 10,
+      author: "João da Silva",
     },
     {
       title: "Acidente de Trânsito",
@@ -19,6 +20,7 @@ const Home = ({ navigation }) => {
       likes: 15,
       postDate: "2021-09-02",
       shared: 5,
+      author: "Maria Oliveira",
     },
     {
       title: "Evento Cultural",
@@ -27,6 +29,7 @@ const Home = ({ navigation }) => {
       likes: 30,
       postDate: "2021-09-03",
       shared: 20,
+      author: "José Santos",
     },
   ];
 
